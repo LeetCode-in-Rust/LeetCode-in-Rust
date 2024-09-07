@@ -54,6 +54,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0001 |[Two Sum](src/main/rust/g0001_0100/s0001_two_sum/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0055 |[Jump Game](src/main/rust/g0001_0100/s0055_jump_game/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0075 |[Sort Colors](src/main/rust/g0001_0100/s0075_sort_colors/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0041 |[First Missing Positive](src/main/rust/g0001_0100/s0041_first_missing_positive/Solution.rs)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 3 | 97.44
 
 #### Udemy Two Pointers
@@ -78,7 +79,10 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0074 |[Search a 2D Matrix](src/main/rust/g0001_0100/s0074_search_a_2d_matrix/Solution.rs)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 1 | 79.35
 | 0048 |[Rotate Image](src/main/rust/g0001_0100/s0048_rotate_image/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
+| 0073 |[Set Matrix Zeroes](src/main/rust/g0001_0100/s0073_set_matrix_zeroes/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Matrix, Big_O_Time_O(m\*n)_Space_O(1) | 0 | 100.00
+| 0056 |[Merge Intervals](src/main/rust/g0001_0100/s0056_merge_intervals/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 3 | 90.96
 
 #### Udemy Linked List
 
@@ -107,6 +111,9 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/rust/g0001_0100/s0070_climbing_stairs/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0064 |[Minimum Path Sum](src/main/rust/g0001_0100/s0064_minimum_path_sum/Solution.rs)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0072 |[Edit Distance](src/main/rust/g0001_0100/s0072_edit_distance/Solution.rs)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
 | 0010 |[Regular Expression Matching](src/main/rust/g0001_0100/s0010_regular_expression_matching/Solution.rs)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Udemy Backtracking/Recursion
@@ -115,6 +122,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0022 |[Generate Parentheses](src/main/rust/g0001_0100/s0022_generate_parentheses/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 1 | 83.92
 | 0039 |[Combination Sum](src/main/rust/g0001_0100/s0039_combination_sum/Solution.rs)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 1 | 86.63
+| 0078 |[Subsets](src/main/rust/g0001_0100/s0078_subsets/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 0 | 100.00
 | 0017 |[Letter Combinations of a Phone Number](src/main/rust/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
 | 0046 |[Permutations](src/main/rust/g0001_0100/s0046_permutations/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 1 | 83.08
 
@@ -156,6 +164,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0074 |[Search a 2D Matrix](src/main/rust/g0001_0100/s0074_search_a_2d_matrix/Solution.rs)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 1 | 79.35
 
 #### Day 6 String
 
@@ -216,6 +225,8 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0075 |[Sort Colors](src/main/rust/g0001_0100/s0075_sort_colors/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0056 |[Merge Intervals](src/main/rust/g0001_0100/s0056_merge_intervals/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 3 | 90.96
 
 #### Day 3 Array
 
@@ -384,6 +395,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/rust/g0001_0100/s0070_climbing_stairs/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 13 Bit Manipulation
 
@@ -403,6 +415,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0034 |[Find First and Last Position of Element in Sorted Array](src/main/rust/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 | 0033 |[Search in Rotated Sorted Array](src/main/rust/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0074 |[Search a 2D Matrix](src/main/rust/g0001_0100/s0074_search_a_2d_matrix/Solution.rs)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 1 | 79.35
 
 #### Day 2 Binary Search
 
@@ -445,6 +458,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0078 |[Subsets](src/main/rust/g0001_0100/s0078_subsets/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 0 | 100.00
 
 #### Day 10 Recursion Backtracking
 
@@ -470,6 +484,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0045 |[Jump Game II](src/main/rust/g0001_0100/s0045_jump_game_ii/Solution.rs)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0062 |[Unique Paths](src/main/rust/g0001_0100/s0062_unique_paths/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Day 14 Dynamic Programming
 
@@ -496,6 +511,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0072 |[Edit Distance](src/main/rust/g0001_0100/s0072_edit_distance/Solution.rs)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
 
 #### Day 19 Bit Manipulation
 
@@ -555,6 +571,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0074 |[Search a 2D Matrix](src/main/rust/g0001_0100/s0074_search_a_2d_matrix/Solution.rs)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 1 | 79.35
 
 #### Day 9
 
@@ -690,6 +707,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/rust/g0001_0100/s0070_climbing_stairs/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 3
 
@@ -759,11 +777,13 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0062 |[Unique Paths](src/main/rust/g0001_0100/s0062_unique_paths/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Day 16
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0064 |[Minimum Path Sum](src/main/rust/g0001_0100/s0064_minimum_path_sum/Solution.rs)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Day 17
 
@@ -780,6 +800,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0072 |[Edit Distance](src/main/rust/g0001_0100/s0072_edit_distance/Solution.rs)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
 
 #### Day 20
 
@@ -1134,11 +1155,13 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/rust/g0001_0100/s0070_climbing_stairs/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 11 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0062 |[Unique Paths](src/main/rust/g0001_0100/s0062_unique_paths/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Day 12 Sliding Window/Two Pointer
 
@@ -1203,6 +1226,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0074 |[Search a 2D Matrix](src/main/rust/g0001_0100/s0074_search_a_2d_matrix/Solution.rs)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 1 | 79.35
 | 0033 |[Search in Rotated Sorted Array](src/main/rust/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 9 Binary Search Tree
@@ -1235,6 +1259,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0003 |[Longest Substring Without Repeating Characters](src/main/rust/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0076 |[Minimum Window Substring](src/main/rust/g0001_0100/s0076_minimum_window_substring/Solution.rs)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(s.length())_Space_O(1) | 0 | 100.00
 
 #### Day 15 Tree
 
@@ -1250,6 +1275,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0056 |[Merge Intervals](src/main/rust/g0001_0100/s0056_merge_intervals/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 3 | 90.96
 
 #### Day 18 Stack
 
@@ -1272,6 +1298,16 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0078 |[Subsets](src/main/rust/g0001_0100/s0078_subsets/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Algorithm_II_Day_9_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 0 | 100.00
+| 0076 |[Minimum Window Substring](src/main/rust/g0001_0100/s0076_minimum_window_substring/Solution.rs)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Big_O_Time_O(s.length())_Space_O(1) | 0 | 100.00
+| 0075 |[Sort Colors](src/main/rust/g0001_0100/s0075_sort_colors/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Data_Structure_II_Day_2_Array, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0074 |[Search a 2D Matrix](src/main/rust/g0001_0100/s0074_search_a_2d_matrix/Solution.rs)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Data_Structure_I_Day_5_Array, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_8, Level_2_Day_8_Binary_Search, Udemy_2D_Arrays/Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 1 | 79.35
+| 0073 |[Set Matrix Zeroes](src/main/rust/g0001_0100/s0073_set_matrix_zeroes/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Matrix, Udemy_2D_Arrays/Matrix, Big_O_Time_O(m\*n)_Space_O(1) | 0 | 100.00
+| 0072 |[Edit Distance](src/main/rust/g0001_0100/s0072_edit_distance/Solution.rs)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_19, Udemy_Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
+| 0070 |[Climbing Stairs](src/main/rust/g0001_0100/s0070_climbing_stairs/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Algorithm_I_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_2, Level_1_Day_10_Dynamic_Programming, Udemy_Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0064 |[Minimum Path Sum](src/main/rust/g0001_0100/s0064_minimum_path_sum/Solution.rs)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Dynamic_Programming_I_Day_16, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0062 |[Unique Paths](src/main/rust/g0001_0100/s0062_unique_paths/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Algorithm_II_Day_13_Dynamic_Programming, Dynamic_Programming_I_Day_15, Level_1_Day_11_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0056 |[Merge Intervals](src/main/rust/g0001_0100/s0056_merge_intervals/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Data_Structure_II_Day_2_Array, Level_2_Day_17_Interval, Udemy_2D_Arrays/Matrix, Big_O_Time_O(n_log_n)_Space_O(n) | 3 | 90.96
 | 0055 |[Jump Game](src/main/rust/g0001_0100/s0055_jump_game/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Algorithm_II_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_4, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0053 |[Maximum Subarray](src/main/rust/g0001_0100/s0053_maximum_subarray/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Data_Structure_I_Day_1_Array, Dynamic_Programming_I_Day_5, Udemy_Famous_Algorithm, Big_O_Time_O(n)_Space_O(1) | 7 | 89.94
 | 0051 |[N-Queens](src/main/rust/g0001_0100/s0051_n_queens/Solution.rs)| Hard | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(N!)_Space_O(N) | 1 | 90.82
