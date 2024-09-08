@@ -88,6 +88,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0114 |[Flatten Binary Tree to Linked List](src/main/rust/g0101_0200/s0114_flatten_binary_tree_to_linked_list/Solution.rs)| Medium | Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, 2024_09_08_Time_0_ms_(100.00%)_Space_2.7_MB_(50.00%) | ug, | ug,
 | 0024 |[Swap Nodes in Pairs](src/main/rust/g0001_0100/s0024_swap_nodes_in_pairs/Solution.rs)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0021 |[Merge Two Sorted Lists](src/main/rust/g0001_0100/s0021_merge_two_sorted_lists/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
 | 0025 |[Reverse Nodes in k-Group](src/main/rust/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.rs)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
@@ -96,6 +97,10 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0094 |[Binary Tree Inorder Traversal](src/main/rust/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n), 2024_09_08_Time_0_ms_(100.00%)_Space_2.2_MB_(33.33%) | ug, | ug,
+| 0102 |[Binary Tree Level Order Traversal](src/main/rust/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N), 2024_09_08_Time_1_ms_(80.61%)_Space_2.4_MB_(24.49%) | ug, | ug,
+| 0104 |[Maximum Depth of Binary Tree](src/main/rust/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H), 2024_09_08_Time_1_ms_(80.46%)_Space_2.7_MB_(50.19%) | ug, | ug,
+| 0098 |[Validate Binary Search Tree](src/main/rust/g0001_0100/s0098_validate_binary_search_tree/Solution.rs)| Medium | String, Dynamic_Programming | 1 | 77.46
 
 #### Udemy Trie and Heap
 
@@ -192,11 +197,15 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0094 |[Binary Tree Inorder Traversal](src/main/rust/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n), 2024_09_08_Time_0_ms_(100.00%)_Space_2.2_MB_(33.33%) | ug, | ug,
 
 #### Day 11 Tree
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/rust/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N), 2024_09_08_Time_1_ms_(80.61%)_Space_2.4_MB_(24.49%) | ug, | ug,
+| 0104 |[Maximum Depth of Binary Tree](src/main/rust/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H), 2024_09_08_Time_1_ms_(80.46%)_Space_2.7_MB_(50.19%) | ug, | ug,
+| 0101 |[Symmetric Tree](src/main/rust/g0101_0200/s0101_symmetric_tree/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)), 2024_09_08_Time_0_ms_(100.00%)_Space_2.2_MB_(78.98%) | ug, | ug,
 
 #### Day 12 Tree
 
@@ -212,6 +221,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0098 |[Validate Binary Search Tree](src/main/rust/g0001_0100/s0098_validate_binary_search_tree/Solution.rs)| Medium | String, Dynamic_Programming | 1 | 77.46
 
 ### Data Structure II
 
@@ -298,6 +308,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/rust/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Big_O_Time_O(N)_Space_O(N), 2024_09_08_Time_2_ms_(84.72%)_Space_2.9_MB_(25.00%) | ug, | ug,
 
 #### Day 16 Tree
 
@@ -472,6 +483,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0017 |[Letter Combinations of a Phone Number](src/main/rust/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
 | 0022 |[Generate Parentheses](src/main/rust/g0001_0100/s0022_generate_parentheses/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 1 | 83.92
+| 0079 |[Word Search](src/main/rust/g0001_0100/s0079_word_search/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Backtracking, Big_O_Time_O(4^(m\*n))_Space_O(m\*n) | 1 | 99.28
 
 #### Day 12 Dynamic Programming
 
@@ -757,6 +769,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0096 |[Unique Binary Search Trees](src/main/rust/g0001_0100/s0096_unique_binary_search_trees/Solution.rs)| Medium | Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 
 #### Day 12
 
@@ -863,6 +876,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0104 |[Maximum Depth of Binary Tree](src/main/rust/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H), 2024_09_08_Time_1_ms_(80.46%)_Space_2.7_MB_(50.19%) | ug, | ug,
 
 #### Day 11 Containers and Libraries
 
@@ -1135,6 +1149,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/rust/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N), 2024_09_08_Time_1_ms_(80.61%)_Space_2.4_MB_(24.49%) | ug, | ug,
 
 #### Day 7 Binary Search
 
@@ -1145,6 +1160,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0098 |[Validate Binary Search Tree](src/main/rust/g0001_0100/s0098_validate_binary_search_tree/Solution.rs)| Medium | String, Dynamic_Programming | 1 | 77.46
 
 #### Day 9 Graph/BFS/DFS
 
@@ -1265,6 +1281,7 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0101 |[Symmetric Tree](src/main/rust/g0101_0200/s0101_symmetric_tree/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)), 2024_09_08_Time_0_ms_(100.00%)_Space_2.2_MB_(78.98%) | ug, | ug,
 
 #### Day 16 Design
 
@@ -1298,6 +1315,16 @@ Rust-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0114 |[Flatten Binary Tree to Linked List](src/main/rust/g0101_0200/s0114_flatten_binary_tree_to_linked_list/Solution.rs)| Medium | Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, 2024_09_08_Time_0_ms_(100.00%)_Space_2.7_MB_(50.00%) | ug, | ug,
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/rust/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Data_Structure_II_Day_15_Tree, Big_O_Time_O(N)_Space_O(N), 2024_09_08_Time_2_ms_(84.72%)_Space_2.9_MB_(25.00%) | ug, | ug,
+| 0104 |[Maximum Depth of Binary Tree](src/main/rust/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Programming_Skills_I_Day_10_Linked_List_and_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(H), 2024_09_08_Time_1_ms_(80.46%)_Space_2.7_MB_(50.19%) | ug, | ug,
+| 0102 |[Binary Tree Level Order Traversal](src/main/rust/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_1_Day_6_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N), 2024_09_08_Time_1_ms_(80.61%)_Space_2.4_MB_(24.49%) | ug, | ug,
+| 0101 |[Symmetric Tree](src/main/rust/g0101_0200/s0101_symmetric_tree/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_2_Day_15_Tree, Big_O_Time_O(N)_Space_O(log(N)), 2024_09_08_Time_0_ms_(100.00%)_Space_2.2_MB_(78.98%) | ug, | ug,
+| 0098 |[Validate Binary Search Tree](src/main/rust/g0001_0100/s0098_validate_binary_search_tree/Solution.rs)| Medium | String, Dynamic_Programming | 1 | 77.46
+| 0096 |[Unique Binary Search Trees](src/main/rust/g0001_0100/s0096_unique_binary_search_trees/Solution.rs)| Medium | Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Dynamic_Programming_I_Day_11, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0094 |[Binary Tree Inorder Traversal](src/main/rust/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.rs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Data_Structure_I_Day_10_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n), 2024_09_08_Time_0_ms_(100.00%)_Space_2.2_MB_(33.33%) | ug, | ug,
+| 0084 |[Largest Rectangle in Histogram](src/main/rust/g0001_0100/s0084_largest_rectangle_in_histogram/Solution.rs)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Stack, Monotonic_Stack, Big_O_Time_O(n_log_n)_Space_O(log_n) | 7 | 92.48
+| 0079 |[Word Search](src/main/rust/g0001_0100/s0079_word_search/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Big_O_Time_O(4^(m\*n))_Space_O(m\*n) | 1 | 99.28
 | 0078 |[Subsets](src/main/rust/g0001_0100/s0078_subsets/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Algorithm_II_Day_9_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 0 | 100.00
 | 0076 |[Minimum Window Substring](src/main/rust/g0001_0100/s0076_minimum_window_substring/Solution.rs)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Big_O_Time_O(s.length())_Space_O(1) | 0 | 100.00
 | 0075 |[Sort Colors](src/main/rust/g0001_0100/s0075_sort_colors/Solution.rs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Data_Structure_II_Day_2_Array, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
