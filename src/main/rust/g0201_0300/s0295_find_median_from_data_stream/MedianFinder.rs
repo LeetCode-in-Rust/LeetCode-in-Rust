@@ -9,8 +9,7 @@ struct MedianFinder {
     min_heap: BinaryHeap<Reverse<i32>>,       // Min heap for upper half
 }
 
-
-/*
+/**
  * `&self` means the method takes an immutable reference.
  * If you need a mutable reference, change it to `&mut self` instead.
  */
@@ -59,7 +58,7 @@ impl MedianFinder {
     }
 }
 
-/*
+/**
  * Your MedianFinder object will be instantiated and called as such:
  * let obj = MedianFinder::new();
  * obj.add_num(num);
