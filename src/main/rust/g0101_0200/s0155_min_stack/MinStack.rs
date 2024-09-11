@@ -6,8 +6,7 @@ pub struct MinStack {
     current_node: Option<Box<Node>>,
 }
 
-
-/*
+/**
  * `&self` means the method takes an immutable reference.
  * If you need a mutable reference, change it to `&mut self` instead.
  */
@@ -68,7 +67,7 @@ impl MinStack {
     }
 }
 
-/*
+/**
  * Your MinStack object will be instantiated and called as such:
  * let obj = MinStack::new();
  * obj.push(val);
