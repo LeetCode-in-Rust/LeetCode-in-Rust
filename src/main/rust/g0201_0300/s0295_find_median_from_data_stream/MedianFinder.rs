@@ -1,5 +1,6 @@
 // #Hard #Top_100_Liked_Questions #Sorting #Two_Pointers #Design #Heap_Priority_Queue #Data_Stream
-// #Big_O_Time_O(n*log_n)_Space_O(n) #2024_09_11_Time_58_ms_(99.02%)_Space_23.2_MB_(84.31%)
+// #Top_Interview_150_Heap #Big_O_Time_O(n*log_n)_Space_O(n)
+// #2024_09_11_Time_58_ms_(99.02%)_Space_23.2_MB_(84.31%)
 
 use std::collections::BinaryHeap;
 use std::cmp::Reverse;

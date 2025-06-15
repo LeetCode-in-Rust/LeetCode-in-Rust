@@ -1,6 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Stack #Design
 // #Data_Structure_II_Day_14_Stack_Queue #Programming_Skills_II_Day_18 #Level_2_Day_16_Design
-// #Udemy_Design #Big_O_Time_O(1)_Space_O(N) #2024_09_10_Time_0_ms_(100.00%)_Space_5.9_MB_(71.62%)
+// #Udemy_Design #Top_Interview_150_Stack #Big_O_Time_O(1)_Space_O(N)
+// #2024_09_10_Time_0_ms_(100.00%)_Space_5.9_MB_(71.62%)
 
 pub struct MinStack {
     current_node: Option<Box<Node>>,

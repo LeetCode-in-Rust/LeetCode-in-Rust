@@ -1,5 +1,6 @@
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Binary_Search #Divide_and_Conquer
-// #Big_O_Time_O(log(min(N,M)))_Space_O(1) #2024_08_24_Time_0_ms_(100.00%)_Space_2.2_MB_(39.80%)
+// #Top_Interview_150_Binary_Search #Big_O_Time_O(log(min(N,M)))_Space_O(1)
+// #AI_can_be_used_to_solve_the_task #2024_08_24_Time_0_ms_(100.00%)_Space_2.2_MB_(39.80%)
 
 impl Solution {
     pub fn find_median_sorted_arrays(nums1: Vec<i32>, nums2: Vec<i32>) -> f64 {

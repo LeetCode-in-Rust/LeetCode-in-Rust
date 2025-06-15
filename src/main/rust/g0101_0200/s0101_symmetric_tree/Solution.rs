@@ -1,6 +1,7 @@
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Depth_First_Search #Breadth_First_Search
 // #Tree #Binary_Tree #Data_Structure_I_Day_11_Tree #Level_2_Day_15_Tree
-// #Big_O_Time_O(N)_Space_O(log(N)) #2024_09_08_Time_0_ms_(100.00%)_Space_2.2_MB_(78.98%)
+// #Top_Interview_150_Binary_Tree_General #Big_O_Time_O(N)_Space_O(log(N))
+// #2024_09_08_Time_0_ms_(100.00%)_Space_2.2_MB_(78.98%)
 
 // Definition for a binary tree node.
 // #[derive(Debug, PartialEq, Eq)]

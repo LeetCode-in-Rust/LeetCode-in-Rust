@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Matrix
-// #Dynamic_Programming_I_Day_16 #Udemy_Dynamic_Programming #Big_O_Time_O(m*n)_Space_O(m*n)
-// #2024_09_07_Time_0_ms_(100.00%)_Space_2.5_MB_(20.18%)
+// #Dynamic_Programming_I_Day_16 #Udemy_Dynamic_Programming #Top_Interview_150_Multidimensional_DP
+// #Big_O_Time_O(m*n)_Space_O(m*n) #2024_09_07_Time_0_ms_(100.00%)_Space_2.5_MB_(20.18%)
 
 impl Solution {
     pub fn min_path_sum(grid: Vec<Vec<i32>>) -> i32 {

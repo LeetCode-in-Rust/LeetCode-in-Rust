@@ -1,6 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Dynamic_Programming
 // #Backtracking #Algorithm_II_Day_11_Recursion_Backtracking #Udemy_Backtracking/Recursion
-// #Big_O_Time_O(2^n)_Space_O(n) #2024_09_05_Time_1_ms_(83.92%)_Space_2.3_MB_(62.75%)
+// #Top_Interview_150_Backtracking #Big_O_Time_O(2^n)_Space_O(n)
+// #2024_09_05_Time_1_ms_(83.92%)_Space_2.3_MB_(62.75%)
 
 impl Solution {
     pub fn generate_parenthesis(n: i32) -> Vec<String> {

@@ -1,5 +1,6 @@
-// #Medium #Top_100_Liked_Questions #String #Stack #Recursion #Level_1_Day_14_Stack #Udemy_Strings
-// #Big_O_Time_O(n)_Space_O(n) #2024_09_12_Time_0_ms_(100.00%)_Space_2.1_MB_(24.04%)
+// #Medium #Top_100_Liked_Questions #String #Stack #Recursion #LeetCode_75_Stack
+// #Level_1_Day_14_Stack #Udemy_Strings #Big_O_Time_O(n)_Space_O(n)
+// #2024_09_12_Time_0_ms_(100.00%)_Space_2.1_MB_(24.04%)
 
 impl Solution {
     pub fn decode_string(s: String) -> String {

@@ -1,4 +1,5 @@
-// #Easy #Math #Udemy_Integers #2024_09_04_Time_0_ms_(100.00%)_Space_2_MB_(83.29%)
+// #Easy #Math #Udemy_Integers #Top_Interview_150_Math
+// #2024_09_04_Time_0_ms_(100.00%)_Space_2_MB_(83.29%)
 
 impl Solution {
     pub fn is_palindrome(x: i32) -> bool {

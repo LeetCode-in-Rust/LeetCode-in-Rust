@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Depth_First_Search
-// #Breadth_First_Search #Graph #Topological_Sort #Big_O_Time_O(N)_Space_O(N)
-// #2024_09_10_Time_0_ms_(100.00%)_Space_2.6_MB_(47.48%)
+// #Breadth_First_Search #Graph #Topological_Sort #Top_Interview_150_Graph_General
+// #Big_O_Time_O(N)_Space_O(N) #2024_09_10_Time_0_ms_(100.00%)_Space_2.6_MB_(47.48%)
 
 impl Solution {
     const WHITE: i32 = 0;
