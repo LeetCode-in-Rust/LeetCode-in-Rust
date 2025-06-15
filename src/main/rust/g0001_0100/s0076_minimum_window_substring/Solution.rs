@@ -1,6 +1,6 @@
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #String #Hash_Table #Sliding_Window
-// #Level_2_Day_14_Sliding_Window/Two_Pointer #Big_O_Time_O(s.length())_Space_O(1)
-// #2024_09_07_Time_0_ms_(100.00%)_Space_2.4_MB_(32.56%)
+// #Level_2_Day_14_Sliding_Window/Two_Pointer #Top_Interview_150_Sliding_Window
+// #Big_O_Time_O(s.length())_Space_O(1) #2024_09_07_Time_0_ms_(100.00%)_Space_2.4_MB_(32.56%)
 
 impl Solution {
     pub fn min_window(s: String, t: String) -> String {

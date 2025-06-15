@@ -1,6 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Sorting #Two_Pointers
 // #Data_Structure_II_Day_1_Array #Algorithm_II_Day_3_Two_Pointers #Udemy_Two_Pointers
-// #Big_O_Time_O(n*log(n))_Space_O(n^2) #2024_09_04_Time_27_ms_(81.94%)_Space_4.1_MB_(55.03%)
+// #Top_Interview_150_Two_Pointers #Big_O_Time_O(n*log(n))_Space_O(n^2)
+// #2024_09_04_Time_27_ms_(81.94%)_Space_4.1_MB_(55.03%)
 
 impl Solution {
     pub fn three_sum(nums: Vec<i32>) -> Vec<Vec<i32>> {

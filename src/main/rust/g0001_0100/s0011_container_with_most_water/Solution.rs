@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Greedy #Two_Pointers
-// #Algorithm_II_Day_4_Two_Pointers #Big_O_Time_O(n)_Space_O(1)
-// #2024_09_04_Time_4_ms_(95.02%)_Space_2.9_MB_(95.02%)
+// #LeetCode_75_Two_Pointers #Algorithm_II_Day_4_Two_Pointers #Top_Interview_150_Two_Pointers
+// #Big_O_Time_O(n)_Space_O(1) #2024_09_04_Time_4_ms_(95.02%)_Space_2.9_MB_(95.02%)
 
 impl Solution {
     pub fn max_area(height: Vec<i32>) -> i32 {

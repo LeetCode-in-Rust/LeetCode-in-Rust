@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Breadth_First_Search
 // #Algorithm_II_Day_18_Dynamic_Programming #Dynamic_Programming_I_Day_20
-// #Level_2_Day_12_Dynamic_Programming #Big_O_Time_O(m*n)_Space_O(amount)
+// #Level_2_Day_12_Dynamic_Programming #Top_Interview_150_1D_DP #Big_O_Time_O(m*n)_Space_O(amount)
 // #2024_09_12_Time_3_ms_(100.00%)_Space_2.2_MB_(69.95%)
 
 impl Solution {

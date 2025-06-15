@@ -1,6 +1,7 @@
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Sorting #Counting
 // #Divide_and_Conquer #Data_Structure_II_Day_1_Array #Udemy_Famous_Algorithm
-// #Big_O_Time_O(n)_Space_O(1) #2024_09_10_Time_1_ms_(82.64%)_Space_2.5_MB_(18.91%)
+// #Top_Interview_150_Array/String #Big_O_Time_O(n)_Space_O(1)
+// #2024_09_10_Time_1_ms_(82.64%)_Space_2.5_MB_(18.91%)
 
 impl Solution {
     pub fn majority_element(arr: Vec<i32>) -> i32 {

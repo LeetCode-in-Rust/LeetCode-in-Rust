@@ -1,4 +1,5 @@
-// #Medium #String #2024_09_04_Time_0_ms_(100.00%)_Space_2.1_MB_(94.72%)
+// #Medium #String #Top_Interview_150_Array/String
+// #2024_09_04_Time_0_ms_(100.00%)_Space_2.1_MB_(94.72%)
 
 impl Solution {
     pub fn convert(s: String, num_rows: i32) -> String {

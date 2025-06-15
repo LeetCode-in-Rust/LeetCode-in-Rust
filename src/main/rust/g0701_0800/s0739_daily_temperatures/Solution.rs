@@ -1,5 +1,6 @@
-// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #Programming_Skills_II_Day_6
-// #Big_O_Time_O(n)_Space_O(n) #2024_09_13_Time_33_ms_(91.80%)_Space_3.4_MB_(99.45%)
+// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #LeetCode_75_Monotonic_Stack
+// #Programming_Skills_II_Day_6 #Big_O_Time_O(n)_Space_O(n)
+// #2024_09_13_Time_33_ms_(91.80%)_Space_3.4_MB_(99.45%)
 
 impl Solution {
     pub fn daily_temperatures(temperatures: Vec<i32>) -> Vec<i32> {

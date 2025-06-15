@@ -1,5 +1,6 @@
-// #Easy #Dynamic_Programming #Bit_Manipulation #Udemy_Bit_Manipulation
-// #Big_O_Time_O(num)_Space_O(num) #2024_09_12_Time_0_ms_(100.00%)_Space_2.6_MB_(15.06%)
+// #Easy #Dynamic_Programming #Bit_Manipulation #LeetCode_75_Bit_Manipulation
+// #Udemy_Bit_Manipulation #Big_O_Time_O(num)_Space_O(num)
+// #2024_09_12_Time_0_ms_(100.00%)_Space_2.6_MB_(15.06%)
 
 impl Solution {
     pub fn count_bits(num: i32) -> Vec<i32> {

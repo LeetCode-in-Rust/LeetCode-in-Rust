@@ -1,6 +1,6 @@
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Heap_Priority_Queue #Linked_List
-// #Divide_and_Conquer #Merge_Sort #Big_O_Time_O(k*n*log(k))_Space_O(log(k))
-// #2024_09_05_Time_0_ms_(100.00%)_Space_3.2_MB_(74.80%)
+// #Divide_and_Conquer #Merge_Sort #Top_Interview_150_Divide_and_Conquer
+// #Big_O_Time_O(k*n*log(k))_Space_O(log(k)) #2024_09_05_Time_0_ms_(100.00%)_Space_3.2_MB_(74.80%)
 
 // Definition for singly-linked list.
 // #[derive(PartialEq, Eq, Clone, Debug)]

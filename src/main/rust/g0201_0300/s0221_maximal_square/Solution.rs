@@ -1,5 +1,6 @@
 // #Medium #Array #Dynamic_Programming #Matrix #Dynamic_Programming_I_Day_16
-// #Big_O_Time_O(m*n)_Space_O(m*n) #2024_09_10_Time_16_ms_(88.89%)_Space_9.3_MB_(81.48%)
+// #Top_Interview_150_Multidimensional_DP #Big_O_Time_O(m*n)_Space_O(m*n)
+// #2024_09_10_Time_16_ms_(88.89%)_Space_9.3_MB_(81.48%)
 
 impl Solution {
     pub fn maximal_square(matrix: Vec<Vec<char>>) -> i32 {
